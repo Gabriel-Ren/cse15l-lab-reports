@@ -1,7 +1,6 @@
 # Week 1 Lab Report by Gabriel Renslow
-```
-# CD
-```
+
+# `CD`
 
 **no arguments**
 
