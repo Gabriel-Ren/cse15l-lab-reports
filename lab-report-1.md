@@ -2,7 +2,7 @@
 
 # ---- CD ----
 
-**cd | no arguments**
+**cd | path to a directory**
 
 ![Image](cd1.png)
 
