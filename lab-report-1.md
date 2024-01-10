@@ -1,7 +1,8 @@
 # Week 1 Lab Report by Gabriel Renslow
 
+```
 # ---- CD ----
-
+```
 **no arguments**
 
 ![Image](cd1.png)
