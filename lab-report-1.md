@@ -1,8 +1,8 @@
 # Week 1 Lab Report by Gabriel Renslow
+```
+# CD
+```
 
-```
-# ---- CD ----
-```
 **no arguments**
 
 ![Image](cd1.png)
@@ -20,8 +20,9 @@ Since a directory was provided, the compiler was able to navigate into the file 
 ![Image](cd3.png)
 
 In this example the compiler was able to find the folder without giving a directory because the compiler was already inside the folder that the folder referenced in the path was in.
-
-# ---- LS ----
+```
+# LS
+```
 
 **no arguments**
 
@@ -40,8 +41,9 @@ Since a directory was provided, the compiler was able to print all of the file n
 ![Image](ls3.png)
 
 Since a folder name was provided with the compiler already being in the same folder as the file, the compiler is able to locate the folder and so it prints out it's contents. (Not an error)
-
-# ---- CAT ----
+```
+# CAT
+```
 
 **no arguments**
 
