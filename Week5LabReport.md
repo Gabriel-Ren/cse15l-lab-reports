@@ -1,10 +1,21 @@
-# Week 5 Lab Report by Gabriel Renslow
+![image](https://github.com/Gabriel-Ren/cse15l-lab-reports/assets/156254424/ed921602-f787-4adb-8645-a66fb41ad115)# Week 5 Lab Report by Gabriel Renslow
 
 # `Part 1 - Bugs`
 
-![Image](week7_Part4.png)
+# Failure Inducing Test
+```int[] input1 = { 1, 2, 3 };```
+```ArrayExamples.reverseInPlace(input1);```
+```assertArrayEquals(new int[]{ 3, 2, 1 }, input1);```
 
-Keystrokes: ```ssh grenslow@ieng6-202.ucsd.edu<enter>```
+# Non-Failure Inducing Test
+```int[] input1 = { 3 };```
+```ArrayExamples.reverseInPlace(input1);```
+```assertArrayEquals(new int[]{ 3 }, input1);```
+
+# Non-Failure Inducing Test
+```int[] input1 = { 3 };```
+```ArrayExamples.reverseInPlace(input1);```
+```assertArrayEquals(new int[]{ 3 }, input1);```
 
 This command allows me to login to my ieng6 environment so I can begin the lab report.
 
