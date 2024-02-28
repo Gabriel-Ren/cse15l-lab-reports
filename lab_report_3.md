@@ -4,7 +4,7 @@
 
 ![Image](cd1.png)
 
-#Keystrokes: ssh<space>grenslow@ieng6-202.ucsd.edu<enter>
+#'Keystrokes: ssh<space>grenslow@ieng6-202.ucsd.edu<enter>'
 
 This command allows me to login to my ieng6 environment so I can begin the lab report.
 
