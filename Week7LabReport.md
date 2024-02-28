@@ -10,7 +10,7 @@ This command allows me to login to my ieng6 environment so I can begin the lab r
 
 # `Step 5`
 
-![Image](week7_Part5 - Copy.png)
+![Image](week7_Part5-Copy.png)
 
 Keystrokes: ```git clone <ctrl>+v<enter>```
 
