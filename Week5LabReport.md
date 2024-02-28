@@ -3,14 +3,14 @@
 # `Part 1 - Bugs`
 
 # Failure Inducing Test
-```int[] input1 = { 1, 2, 3 };```
-```ArrayExamples.reverseInPlace(input1);```
-```assertArrayEquals(new int[]{ 3, 2, 1 }, input1);```
+```int[] input1 = { 1, 2, 3 };
+ArrayExamples.reverseInPlace(input1);
+assertArrayEquals(new int[]{ 3, 2, 1 }, input1);```
 
 # Non-Failure Inducing Test
-```int[] input1 = { 3 };```
-```ArrayExamples.reverseInPlace(input1);```
-```assertArrayEquals(new int[]{ 3 }, input1);```
+```int[] input1 = { 3 };
+ArrayExamples.reverseInPlace(input1);
+assertArrayEquals(new int[]{ 3 }, input1);```
 
 # Sympton
 
