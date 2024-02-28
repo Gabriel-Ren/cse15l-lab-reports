@@ -14,10 +14,11 @@
 
 # Sympton
 
-![Image](week7_Part5-Copy.png)
+![Image](Week5_Part1.png)
 
 # Bug/Solution
 
+![Image](Week5_Part2.png)
 
 
 
