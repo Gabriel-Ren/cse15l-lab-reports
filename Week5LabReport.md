@@ -12,10 +12,15 @@
 ```ArrayExamples.reverseInPlace(input1);```
 ```assertArrayEquals(new int[]{ 3 }, input1);```
 
-# Non-Failure Inducing Test
-```int[] input1 = { 3 };```
-```ArrayExamples.reverseInPlace(input1);```
-```assertArrayEquals(new int[]{ 3 }, input1);```
+# Sympton
+
+![Image](week7_Part5-Copy.png)
+
+# Bug/Solution
+
+
+
+
 
 This command allows me to login to my ieng6 environment so I can begin the lab report.
 
