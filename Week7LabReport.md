@@ -18,7 +18,8 @@ This command allows me to clone my github repo into the environment so I can beg
 
 # `Step 6`
 
-![Image](cd1.png)
+![Image](week7_Part6(0).png)
+![Image](week7_Part6(1).png)
 
 Keystrokes: 
 ```cd lab7<enter>```
@@ -28,7 +29,7 @@ Here I used the cd command to enter the 'lab7' folder. Then I used the bash comm
 
 # `Step 7`
 
-![Image](cd1.png)
+![Image](week7_Part7,png.png)
 
 Keystrokes:
 ```vim ListExamples.java<enter>```
@@ -43,7 +44,7 @@ Here I use the vim command to start editing the ListExamplesTests.java so I can 
 
 # `Step 8`
 
-![Image](cd1.png)
+![Image](week7_Part8.png)
 
 Keystrokes:
 ```bash test.sh<enter>```
@@ -52,7 +53,8 @@ Here I use the bash command once again to run the 'test.sh' file and it reported
 
 # `Step 9`
 
-![Image](cd1.png)
+![Image](week7_Part9(0).png)
+![Image](week7_Part9(1).png)
 
 Keystrokes:
 ```git add ListExamples.java<enter>```
