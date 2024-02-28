@@ -1,4 +1,4 @@
-![image](https://github.com/Gabriel-Ren/cse15l-lab-reports/assets/156254424/ed921602-f787-4adb-8645-a66fb41ad115)# Week 5 Lab Report by Gabriel Renslow
+# Week 5 Lab Report by Gabriel Renslow
 
 # `Part 1 - Bugs`
 
