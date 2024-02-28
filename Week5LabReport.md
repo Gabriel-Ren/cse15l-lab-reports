@@ -89,7 +89,7 @@ For example, we saw the -name option for find in class. For each of those option
 That makes 8 total examples, all focused on a single command. There should be two examples each for four different command-line options. Many commands like these have pretty sophisticated behavior possible – it can take years to be exposed to and learn all of the possible tricks and inner workings.
 ```
 
-#Output
+# Output
 
 ### 1. `-v` Option (Invert Match)
 **Description:** The `-v` option inverts the match, meaning it selects non-matching lines.
