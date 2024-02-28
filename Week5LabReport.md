@@ -18,7 +18,27 @@
 
 # Bug/Solution
 
-![Image](Week5_Part2.png)
+Before
+```
+  static void reverseInPlace(int[] arr) {
+    for(int i = 0; i < arr.length; i += 1) {
+      arr[i] = arr[arr.length - i - 1];
+    }
+  }
+```
+
+After
+```
+static void reverseInPlace(int[] arr) {
+    int[] temp = new int[arr.length];
+    for(int i = 0; i < arr.length; i += 1) {
+      temp[i] = arr[arr.length - i - 1];
+    }
+    for(int i = 0; i < arr.length; i +=1) {
+      arr[i] = temp[i];
+    }
+  }
+```
 
 
 
